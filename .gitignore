@@ -43,6 +43,9 @@ logs/
 .cache/
 .temp/
 
+# Claude Code local files
+.claude/
+
 # Package manager locks (keep package-lock.json for reproducibility)
 # Uncomment if using yarn or pnpm exclusively
 # package-lock.json
